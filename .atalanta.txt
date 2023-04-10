@@ -1,0 +1,98 @@
+<!-- STAGIONE 20|21 -->
+	<!-- 2021 -->
+		<!-- GENNAIO -->
+09-01-2021 Benevento - Atalanta
+14-01-2021 Atalanta - Cagliari
+17-01-2021 Atalanta - Genoa
+20-01-2021 Udinese - Atalanta
+23-01-2021 Milan - Atalanta
+27-01-2021 Atalanta - Lazio
+31-01-2021 Atalanta - Lazio
+		<!-- FEBBRAIO -->
+03-02-2021 Atalanta - Napoli
+06-02-2021 Atalanta - Torino
+10-02-2021 Napoli - Atalanta
+14-02-2021 Cagliari - Atalanta
+21-02-2021 Atalanta - Napoli
+24-02-2021 Atalanta - Real Madrid
+28-02-2021 Sampdoria - Atalanta
+		<!-- MARZO -->
+03-03-2021 Atalanta - Crotone
+08-03-2021 Inter - Atalanta
+12-03-2021 Atalanta - Spezia
+16-03-2021 Real Madrid - Atalanta
+21-03-2021 Hellas Verona - Atalanta
+		<!-- APRILE -->
+03-04-2021 Atalanta - Udinese
+11-04-2021 Fiorentina - Atalanta
+18-04-2021 Atalanta - Juventus
+22-04-2021 Roma - Atalanta
+25-04-2021 Atalanta - Bologna
+		<!-- MAGGIO -->
+02-05-2021 Sassuolo - Atalanta
+09-05-2021 Parma - Atalanta
+12-05-2021 Atalanta - Benevento
+15-05-2021 Genoa - Atalanta
+19-05-2021 Atalanta - Juventus
+23-05-2021 Atalanta - Milan
+
+<!-- STAGIONE 21|22 -->
+	<!-- 2021 -->
+		<!-- AGOSTO -->
+21-08-2021 Torino - Atalanta
+28-08-2021 Atalanta - Bologna
+		<!-- SETTEMBRE -->
+11-09-2021 Atalanta - Fiorentina
+14-09-2021 Villareal - Atalanta
+18-09-2021 Salernitana - Atalanta
+21-09-2021 Atalanta - Sassuolo
+25-09-2021 Inter - Atalanta
+29-09-2021 Atalanta - Young Boys
+		<!-- OTTOBRE -->
+03-10-2021 Atalanta - Milan
+17-10-2021 Empoli - Atalanta
+20-10-2021 Manchester United - Atalanta
+24-10-2021 Atalanta - Udinese
+27-10-2021 Sampdoria - Atalanta
+30-10-2021 Atalanta - Lazio
+		<!-- NOVEMBRE -->
+02-11-2021 Atalanta - Manchester United
+06-11-2021 Cagliari - Atalanta
+20-11-2021 Atalanta - Spezia
+23-11-2021 Young Boys - Atalanta
+27-11-2021 Juventus - Atalanta
+30-11-2021 Atalanta - Venezia
+		<!-- DICEMBRE -->
+04-12-2021 Napoli - Atalanta
+08-12-2021 Atalanta - Villareal
+12-12-2021 Hellas Verona - Atalanta
+18-12-2021 Atalanta - Roma
+21-12-2021 Genoa - Atalanta
+
+	<!-- 2022 -->
+		<!-- GENNAIO -->
+06-01-2022 Atalanta - Torino
+09-01-2022 Udinese - Atalanta
+16-01-2022 Atalanta - Inter
+22-01-2022 Lazio - Atalanta
+		<!-- FEBBRAIO -->
+06-02-2022 Atalanta - Cagliari
+13-02-2022 Atalanta - Juventus
+17-02-2022 Atalanta - Olympiacos
+20-02-2022 Fiorentina - Atalanta
+24-02-2022 Olympiacos - Atalanta
+27-02-2022 Atalanta - Sampdoria
+		<!-- MARZO -->
+06-03-2022 Roma - Atalanta
+13-03-2022 Atalanta - Genoa
+20-03-2022 Bologna - Atalanta
+		<!-- APRILE -->
+03-04-2022 Atalanta - Napoli
+10-04-2022 Sassuolo - Atalanta
+16-04-2022 Atalanta - Hellas Verona
+24-04-2022 Venezia - Atalanta
+		<!-- MAGGIO -->
+01-05-2022 Atalanta - Salernitana
+08-05-2022 Spezia - Atalanta
+15-05-2022 Milan - Atalanta
+22-05-2022 Atalanta - Empoli
