@@ -1,6 +1,7 @@
 [user]
-	name = scainimatteo-archimedia
-	email = m.scaini@archimediaweb.it
+	name = scainimatteo
+	email = matteo.scaini.02031999@gmail.com
+
 [alias]
     s = status
     b = branch -vv
@@ -9,6 +10,12 @@
     lg2 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n'' %C(white)%s%C(reset) %C(dim white)- %an%C(reset)' --all
     lg = !"git lg2"
     l = !"git lg2"
+	d = difftool
 
 [core]
     editor = vim
+
+[diff]
+	tool = vimdiff
+[difftool]
+	prompt = false

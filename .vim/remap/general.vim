@@ -1,11 +1,11 @@
 "REMAP
-nnoremap 9 $
+map ì $
 nnoremap <TAB> v>
 nnoremap <S-TAB> v<
+vnoremap <TAB> >
 nmap <CR> o<ESC>
 nnoremap <leader>n :nohlsearch<CR>
 map <C-n> :NERDTreeToggle<CR>
-vnoremap <TAB> >
 nnoremap ' :<C-u>marks<CR>:normal! '
 nnoremap m :<C-u>marks<CR>:normal! m
 nnoremap zq zA
