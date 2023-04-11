@@ -124,6 +124,6 @@ export NVM_DIR="$HOME/.nvm"
 export PATH="$PATH":"$HOME/bin/cache/dart-sdk/bin"
 export PATH="$PATH":"$HOME/.pub-cache/bin"
 export PATH="$PATH":"/home/scainimatteo/Android/Sdk/platform-tools:/home/scainimatteo/Android/Sdk/tools:/home/scainimatteo/Android/Sdk/build-tools/27.0.3"
-export JAVA_HOME="/usr/lib/jvm/java-8-openjdk-amd64/"
+export JAVA_HOME="/usr/lib/jvm/java-11-openjdk-amd64/"
 export PATH=$PATH:$JAVA_HOME
 export PATH=$PATH:/opt/gradle/gradle-3.4.1/bin
