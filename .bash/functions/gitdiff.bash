@@ -56,15 +56,21 @@ function gitdiff() {
 
     target_directory="$HOME/Documents/Notes/$notes_directory/$date"
     if [ ! -d "$target_direcoty" ]; then
-	mkdir -p $target_directory
+		mkdir -p $target_directory
     fi
     
     if [ -z $commit ]; then
-	echo -e "commit not specified\nterminating..."
-	return 1
+		echo -e "commit not specified\nterminating..."
+		return 1
     fi
 
+	if [ -f "package-lock.json" ]; then
+		exclude_package_lock="':!package-lock.json'"
+	else
+		exclude_package_lock=''
+	fi
+
     git diff $commit --name-status > $prefix-$folder_name.md
-    git diff $commit ':!*.css' ':!package-lock.json' ':!*.min.*' $exclude_files > $prefix-$folder_name-all.md
+    git diff $commit ':!*.css' ':!*.min.*' $exclude_package_lock $exclude_files > $prefix-$folder_name-all.md
     mv $prefix-$folder_name* $target_directory
 }
