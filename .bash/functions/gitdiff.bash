@@ -7,12 +7,17 @@ function gitdiff() {
     exclude_files=""
     
     OPTIND=1;
-    TEMP=$(getopt -o 'c:f:d:p:' --long 'commit:,foldername:,date:,notesdir:,prefix:,exclude:' -n 'gitdiff.bash' -- "$@")
+	HELP_DIR="$HOME/.terminal-config/.bash/functions/help-messages/gitdiff"
+    TEMP=$(getopt -o 'hc:f:d:p:' --long 'help,commit:,foldername:,date:,notesdir:,prefix:,exclude:' -n 'gitdiff.bash' -- "$@")
     eval set -- "$TEMP"
     unset TEMP
     
     while true; do
         case "$1" in
+			'-h'|'--help')
+				cat $HELP_DIR
+				return 1
+			;;
             '-c'|'--commit')
                 commit=$2
                 shift 2
