@@ -14,7 +14,9 @@
 
 [core]
     editor = vim
-	pager = less -+X -+F
 
 [diff]
 	tool = vimdiff
+
+[pager]
+	log = less -+X -+F
