@@ -69,13 +69,14 @@ function gitdiff() {
 		return 1
     fi
 
-	if [ -f "package-lock.json" ]; then
-		exclude_package_lock="':!package-lock.json'"
+    git diff $commit --name-status > $prefix-$folder_name.md
+
+	if grep -q 'package-lock.json' "$prefix-$folder_name.md"; then
+		exclude_package_lock=':!package-lock.json'
 	else
-		exclude_package_lock=''
+		exclude_package_lock=""
 	fi
 
-    git diff $commit --name-status > $prefix-$folder_name.md
     git diff $commit ':!*.css' ':!*.min.*' $exclude_package_lock $exclude_files > $prefix-$folder_name-all.md
     mv $prefix-$folder_name* $target_directory
 }
