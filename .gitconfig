@@ -11,7 +11,7 @@
 	lg = !"git lg2"
     l = lg
 	d = difftool
-	c = checkout -B
+	c = checkout
 
 [core]
     editor = vim
