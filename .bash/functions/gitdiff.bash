@@ -77,6 +77,6 @@ function gitdiff() {
 		exclude_package_lock=""
 	fi
 
-    git diff $commit ':!*.css' ':!*.min.*' $exclude_package_lock $exclude_files > $prefix-$folder_name-all.md
+    git diff $commit ':!*.css' ':!*.min.*' ':!*.lock' $exclude_package_lock $exclude_files > $prefix-$folder_name-all.md
     mv $prefix-$folder_name* $target_directory
 }
