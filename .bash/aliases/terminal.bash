@@ -1,6 +1,6 @@
 # LIST COMMANDS
 alias ls='ls -A --color=always'
-alias l='ls -la --color=always'
+alias l='ls -lA --color=always'
 
 # SHUTDOWN
 alias sd='shutdown now'
