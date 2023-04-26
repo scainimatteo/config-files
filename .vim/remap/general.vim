@@ -1,14 +1,18 @@
 "REMAP
 map ì $
+nmap <CR> o<ESC>
+nnoremap zq zA
+map <C-y> "+y
+
 nnoremap <TAB> v>
 nnoremap <S-TAB> v<
 vnoremap <TAB> >
-nmap <CR> o<ESC>
+vnoremap <S-TAB> <
+
 nnoremap <leader>n :nohlsearch<CR>
 map <C-n> :NERDTreeToggle<CR>
 nnoremap ' :<C-u>marks<CR>:normal! '
 nnoremap m :<C-u>marks<CR>:normal! m
-nnoremap zq zA
 
 nnoremap <leader>l <C-W>l
 nnoremap <leader>k <C-W>k
