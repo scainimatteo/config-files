@@ -2,7 +2,10 @@
 map ì $
 nmap <CR> o<ESC>
 nnoremap zq zA
+nmap <S-u> <C-r>
+
 map <C-y> "+y
+map <C-p> o<ESC>"+p
 
 nnoremap <TAB> v>
 nnoremap <S-TAB> v<

@@ -12,6 +12,7 @@ set autoindent
 set smartindent
 syntax enable
 set foldmethod=syntax
+set nofoldenable
 hi Folded ctermbg=None
 hi Folded ctermfg=DarkCyan
 set splitbelow
