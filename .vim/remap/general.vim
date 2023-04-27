@@ -6,6 +6,7 @@ nmap <S-u> <C-r>
 
 map <C-y> "+y
 map <C-p> o<ESC>"+p
+map <M-p> "+p
 
 nnoremap <TAB> v>
 nnoremap <S-TAB> v<
