@@ -8,7 +8,7 @@ runtime commands.vim
 runtime layout.vim
 
 "TAB
-runtime conf_tab.vim
+runtime tab.vim
 
 "REMAP
 ""GENERAL REMAP
@@ -22,6 +22,9 @@ runtime remap/c.vim
 
 ""JAVA REMAP & SHORTCUTS
 runtime remap/java.vim
+
+""CSS REMAP & SHORTCUTS
+runtime remap/css.vim
 
 "SEARCH
 runtime search.vim
