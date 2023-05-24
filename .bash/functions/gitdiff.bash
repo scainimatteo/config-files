@@ -2,13 +2,13 @@ function gitdiff() {
     commit=""
     folder_name="$(basename $PWD)"
     date="$(date +'%Y%m%d')"
-    notes_directory="fondazione-cologni/git-diff"
+    notes_directory="git-diff"
     prefix="diff"
     exclude_files=""
     
     OPTIND=1;
 	HELP_DIR="$HOME/.terminal-config/.bash/functions/help-messages/gitdiff"
-    TEMP=$(getopt -o 'hc:f:d:p:' --long 'help,commit:,foldername:,date:,notesdir:,prefix:,exclude:' -n 'gitdiff.bash' -- "$@")
+    TEMP=$(getopt -o 'hc:f:n:d:p:' --long 'help,commit:,foldername:,date:,notesdir:,prefix:,exclude:' -n 'gitdiff.bash' -- "$@")
     eval set -- "$TEMP"
     unset TEMP
     
@@ -38,7 +38,7 @@ function gitdiff() {
                 shift 2
                 continue
             ;;
-            '--notesdir')
+            '-n' | '--notesdir')
                 notes_directory=$2
                 shift 2
                 continue

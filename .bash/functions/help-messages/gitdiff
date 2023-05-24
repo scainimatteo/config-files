@@ -4,7 +4,7 @@ Options:
 -h, --help          Display this message
 -c, --commit        [REQUIRED] Commit number
 -f, --foldername    Change git folder name
--d, --date          Change folder name in /Notes/$notes_directory/git-diff folder
---notesdir          Change notes directory name ($notes_directory)
+-d, --date          Change folder name in /Notes/$notes_directory folder
+-n, --notesdir      Change notes directory name ($notes_directory)
 -p, --prefix        Change generated files' prefix
 --exclude           Add new exclude rules
