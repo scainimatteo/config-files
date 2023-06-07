@@ -8,6 +8,9 @@ map <C-y> "+y
 map <C-p> o<ESC>"+p
 map <M-p> "+p
 
+map + <C-a>
+map - <C-x>
+
 nnoremap <TAB> v>
 nnoremap <S-TAB> v<
 vnoremap <TAB> >
