@@ -13,8 +13,8 @@ map - <C-x>
 
 nnoremap <TAB> v>
 nnoremap <S-TAB> v<
-vnoremap <TAB> >
-vnoremap <S-TAB> <
+vnoremap <TAB> >gv
+vnoremap <S-TAB> <gv
 
 nnoremap <leader>n :nohlsearch<CR>
 map <C-n> :NERDTreeToggle<CR>
