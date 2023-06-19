@@ -4,6 +4,7 @@ alias l='ls -lAv --group-directories-first --color=always'
 
 # SHUTDOWN
 alias sd='shutdown now'
+alias lock='gnome-screensaver-command --lock'
 # alias sd='sync; shutdown now'
 
 # SSH
