@@ -19,3 +19,4 @@ alias lock='gnome-screensaver-command --lock'
 
 # CLEAR COMMANDS
 alias cl='clear'
+alias x='exit'
