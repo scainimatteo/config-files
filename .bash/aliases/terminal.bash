@@ -1,6 +1,6 @@
 # LIST COMMANDS
 alias ls='ls -A --group-directories-first --color=always'
-alias l='ls -lAv --group-directories-first --color=always'
+alias l='ls -lAvh --group-directories-first --color=always'
 
 # SHUTDOWN
 alias sd='shutdown now'
