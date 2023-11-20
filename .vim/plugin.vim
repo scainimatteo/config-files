@@ -10,6 +10,5 @@ Plugin 'tpope/vim-commentary'
 Plugin 'vim-syntastic/syntastic'
 Plugin 'tpope/vim-endwise'
 Plugin 'skanehira/preview-uml.vim'
-Plugin 'tpope/vim-fugitive'
 call vundle#end()
 filetype plugin indent on
