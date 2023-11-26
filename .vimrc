@@ -30,5 +30,5 @@ runtime remap/css.vim
 runtime search.vim
 
 "PLUGINS
-"runtime plugin.vim
+runtime plugin.vim
 
