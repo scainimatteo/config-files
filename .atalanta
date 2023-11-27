@@ -1,213 +1,214 @@
 <!-- STAGIONE 20|21 -->
 	<!-- 2021 -->
 		<!-- GENNAIO -->
-2021-01-09 Benevento - Atalanta
-2021-01-14 Atalanta - Cagliari
-2021-01-17 Atalanta - Genoa
-2021-01-20 Udinese - Atalanta
-2021-01-23 Milan - Atalanta
-2021-01-27 Atalanta - Lazio
-2021-01-31 Atalanta - Lazio
+[SA] 2021-01-09 Benevento - Atalanta
+[SA] 2021-01-14 Atalanta - Cagliari
+[SA] 2021-01-17 Atalanta - Genoa
+[SA] 2021-01-20 Udinese - Atalanta
+[SA] 2021-01-23 Milan - Atalanta
+[SA] 2021-01-27 Atalanta - Lazio
+[SA] 2021-01-31 Atalanta - Lazio
 		<!-- FEBBRAIO -->
-2021-02-03 Atalanta - Napoli
-2021-02-06 Atalanta - Torino
-2021-02-10 Napoli - Atalanta
-2021-02-14 Cagliari - Atalanta
-2021-02-21 Atalanta - Napoli
-2021-02-24 Atalanta - Real Madrid
-2021-02-28 Sampdoria - Atalanta
+[SA] 2021-02-03 Atalanta - Napoli
+[SA] 2021-02-06 Atalanta - Torino
+[SA] 2021-02-10 Napoli - Atalanta
+[SA] 2021-02-14 Cagliari - Atalanta
+[SA] 2021-02-21 Atalanta - Napoli
+[UE] 2021-02-24 Atalanta - Real Madrid
+[SA] 2021-02-28 Sampdoria - Atalanta
 		<!-- MARZO -->
-2021-03-03 Atalanta - Crotone
-2021-03-08 Inter - Atalanta
-2021-03-12 Atalanta - Spezia
-2021-03-16 Real Madrid - Atalanta
-2021-03-21 Hellas Verona - Atalanta
+[SA] 2021-03-03 Atalanta - Crotone
+[SA] 2021-03-08 Inter - Atalanta
+[SA] 2021-03-12 Atalanta - Spezia
+[UE] 2021-03-16 Real Madrid - Atalanta
+[SA] 2021-03-21 Hellas Verona - Atalanta
 		<!-- APRILE -->
-2021-04-03 Atalanta - Udinese
-2021-04-11 Fiorentina - Atalanta
-2021-04-18 Atalanta - Juventus
-2021-04-22 Roma - Atalanta
-2021-04-25 Atalanta - Bologna
+[SA] 2021-04-03 Atalanta - Udinese
+[SA] 2021-04-11 Fiorentina - Atalanta
+[SA] 2021-04-18 Atalanta - Juventus
+[SA] 2021-04-22 Roma - Atalanta
+[SA] 2021-04-25 Atalanta - Bologna
 		<!-- MAGGIO -->
-2021-05-02 Sassuolo - Atalanta
-2021-05-09 Parma - Atalanta
-2021-05-12 Atalanta - Benevento
-2021-05-15 Genoa - Atalanta
-2021-05-19 Atalanta - Juventus
-2021-05-23 Atalanta - Milan
+[SA] 2021-05-02 Sassuolo - Atalanta
+[SA] 2021-05-09 Parma - Atalanta
+[SA] 2021-05-12 Atalanta - Benevento
+[SA] 2021-05-15 Genoa - Atalanta
+[SA] 2021-05-19 Atalanta - Juventus
+[SA] 2021-05-23 Atalanta - Milan
 
 <!-- STAGIONE 21|22 -->
 		<!-- AGOSTO -->
-2021-08-21 Torino - Atalanta
-2021-08-28 Atalanta - Bologna
+[SA] 2021-08-21 Torino - Atalanta
+[SA] 2021-08-28 Atalanta - Bologna
 		<!-- SETTEMBRE -->
-2021-09-11 Atalanta - Fiorentina
-2021-09-14 Villareal - Atalanta
-2021-09-18 Salernitana - Atalanta
-2021-09-21 Atalanta - Sassuolo
-2021-09-25 Inter - Atalanta
-2021-09-29 Atalanta - Young Boys
+[SA] 2021-09-11 Atalanta - Fiorentina
+[UE] 2021-09-14 Villareal - Atalanta
+[SA] 2021-09-18 Salernitana - Atalanta
+[SA] 2021-09-21 Atalanta - Sassuolo
+[SA] 2021-09-25 Inter - Atalanta
+[UE] 2021-09-29 Atalanta - Young Boys
 		<!-- OTTOBRE -->
-2021-10-03 Atalanta - Milan
-2021-10-17 Empoli - Atalanta
-2021-10-20 Manchester United - Atalanta
-2021-10-24 Atalanta - Udinese
-2021-10-27 Sampdoria - Atalanta
-2021-10-30 Atalanta - Lazio
+[SA] 2021-10-03 Atalanta - Milan
+[SA] 2021-10-17 Empoli - Atalanta
+[UE] 2021-10-20 Manchester United - Atalanta
+[SA] 2021-10-24 Atalanta - Udinese
+[SA] 2021-10-27 Sampdoria - Atalanta
+[SA] 2021-10-30 Atalanta - Lazio
 		<!-- NOVEMBRE -->
-2021-11-02 Atalanta - Manchester United
-2021-11-06 Cagliari - Atalanta
-2021-11-20 Atalanta - Spezia
-2021-11-23 Young Boys - Atalanta
-2021-11-27 Juventus - Atalanta
-2021-11-30 Atalanta - Venezia
+[UE] 2021-11-02 Atalanta - Manchester United
+[SA] 2021-11-06 Cagliari - Atalanta
+[SA] 2021-11-20 Atalanta - Spezia
+[UE] 2021-11-23 Young Boys - Atalanta
+[SA] 2021-11-27 Juventus - Atalanta
+[SA] 2021-11-30 Atalanta - Venezia
 		<!-- DICEMBRE -->
-2021-12-04 Napoli - Atalanta
-2021-12-08 Atalanta - Villareal
-2021-12-12 Hellas Verona - Atalanta
-2021-12-18 Atalanta - Roma
-2021-12-21 Genoa - Atalanta
+[SA] 2021-12-04 Napoli - Atalanta
+[UE] 2021-12-08 Atalanta - Villareal
+[SA] 2021-12-12 Hellas Verona - Atalanta
+[SA] 2021-12-18 Atalanta - Roma
+[SA] 2021-12-21 Genoa - Atalanta
 
 	<!-- 2022 -->
 		<!-- GENNAIO -->
-2022-01-06 Atalanta - Torino
-2022-01-09 Udinese - Atalanta
-2022-01-12 Atalanta - Venezia
-2022-01-16 Atalanta - Inter
-2022-01-22 Lazio - Atalanta
+[SA] 2022-01-06 Atalanta - Torino
+[SA] 2022-01-09 Udinese - Atalanta
+[SA] 2022-01-12 Atalanta - Venezia
+[SA] 2022-01-16 Atalanta - Inter
+[SA] 2022-01-22 Lazio - Atalanta
 		<!-- FEBBRAIO -->
-2022-02-06 Atalanta - Cagliari
-2022-02-10 Atalanta - Fiorentina
-2022-02-13 Atalanta - Juventus
-2022-02-17 Atalanta - Olympiacos
-2022-02-20 Fiorentina - Atalanta
-2022-02-24 Olympiacos - Atalanta
-2022-02-28 Atalanta - Sampdoria
+[SA] 2022-02-06 Atalanta - Cagliari
+[SA] 2022-02-10 Atalanta - Fiorentina
+[SA] 2022-02-13 Atalanta - Juventus
+[UE] 2022-02-17 Atalanta - Olympiacos
+[SA] 2022-02-20 Fiorentina - Atalanta
+[UE] 2022-02-24 Olympiacos - Atalanta
+[SA] 2022-02-28 Atalanta - Sampdoria
 		<!-- MARZO -->
-2022-03-05 Roma - Atalanta
-2022-03-10 Atalanta - Bayer Leverkusen
-2022-03-13 Atalanta - Genoa
-2022-03-17 Bayer Leverkusen - Atalanta
-2022-03-20 Bologna - Atalanta
+[SA] 2022-03-05 Roma - Atalanta
+[UE] 2022-03-10 Atalanta - Bayer Leverkusen
+[SA] 2022-03-13 Atalanta - Genoa
+[UE] 2022-03-17 Bayer Leverkusen - Atalanta
+[SA] 2022-03-20 Bologna - Atalanta
 		<!-- APRILE -->
-2022-04-03 Atalanta - Napoli
-2022-04-07 Lipsia - Atalanta
-2022-04-10 Sassuolo - Atalanta
-2022-03-14 Atalanta - Lipsia
-2022-04-18 Atalanta - Hellas Verona
-2022-04-23 Venezia - Atalanta
+[SA] 2022-04-03 Atalanta - Napoli
+[UE] 2022-04-07 Lipsia - Atalanta
+[SA] 2022-04-10 Sassuolo - Atalanta
+[UE] 2022-03-14 Atalanta - Lipsia
+[SA] 2022-04-18 Atalanta - Hellas Verona
+[SA] 2022-04-23 Venezia - Atalanta
 		<!-- MAGGIO -->
-2022-05-02 Atalanta - Salernitana
-2022-05-08 Spezia - Atalanta
+[SA] 2022-05-02 Atalanta - Salernitana
+[SA] 2022-05-08 Spezia - Atalanta
 
 <!-- STAGIONE 22|23 -->
 		<!-- AGOSTO -->
-2022-08-13 Sampdoria - Atalanta
-2022-08-21 Atalanta - Milan
-2022-08-28 Verona - Atalanta
+[SA] 2022-08-13 Sampdoria - Atalanta
+[SA] 2022-08-21 Atalanta - Milan
+[SA] 2022-08-28 Verona - Atalanta
 		<!-- SETTEMBRE -->
-2022-09-01 Atalanta - Torino
-2022-09-05 Monza - Atalanta
-2022-09-11 Atalanta - Cremonese
-2022-09-18 Roma - Atalanta
+[SA] 2022-09-01 Atalanta - Torino
+[SA] 2022-09-05 Monza - Atalanta
+[SA] 2022-09-11 Atalanta - Cremonese
+[SA] 2022-09-18 Roma - Atalanta
 		<!-- OTTOBRE -->
-2022-10-02 Atalanta - Fiorentina
-2022-10-09 Udinese - Atalanta
-2022-10-15 Atalanta - Sassuolo
-2022-10-23 Atalanta - Lazio
-2022-10-30 Empoli - Atalanta
+[SA] 2022-10-02 Atalanta - Fiorentina
+[SA] 2022-10-09 Udinese - Atalanta
+[SA] 2022-10-15 Atalanta - Sassuolo
+[SA] 2022-10-23 Atalanta - Lazio
+[SA] 2022-10-30 Empoli - Atalanta
 		<!-- NOVEMBRE -->
-2022-11-05 Atalanta - Napoli
-2022-11-09 Lecce - Atalanta
-2022-11-13 Atalanta - Inter
+[SA] 2022-11-05 Atalanta - Napoli
+[SA] 2022-11-09 Lecce - Atalanta
+[SA] 2022-11-13 Atalanta - Inter
 
 	<!-- 2023 -->
 		<!-- GENNAIO -->
-2023-01-04 Spezia - Atalanta
-2023-01-09 Bologna - Atalanta
-2023-01-15 Atalanta - Salernitana
-2023-01-19 Atalanta - Spezia
-2023-01-22 Juventus - Atalanta
-2023-01-28 Atalanta - Sampdoria
-2023-01-31 Inter - Atalanta
+[SA] 2023-01-04 Spezia - Atalanta
+[SA] 2023-01-09 Bologna - Atalanta
+[SA] 2023-01-15 Atalanta - Salernitana
+[SA] 2023-01-19 Atalanta - Spezia
+[SA] 2023-01-22 Juventus - Atalanta
+[SA] 2023-01-28 Atalanta - Sampdoria
+[SA] 2023-01-31 Inter - Atalanta
 		<!-- FEBBRAIO -->
-2023-02-04 Sassuolo - Atalanta
-2023-02-11 Lazio - Atalanta
-2023-02-19 Atalanta - Lecce
-2023-02-26 Milan - Atalanta
+[SA] 2023-02-04 Sassuolo - Atalanta
+[SA] 2023-02-11 Lazio - Atalanta
+[SA] 2023-02-19 Atalanta - Lecce
+[SA] 2023-02-26 Milan - Atalanta
 		<!-- MARZO -->
-2023-03-04 Atalanta - Udinese
-2023-03-11 Napoli - Atalanta
-2023-03-17 Atalanta - Empoli
+[SA] 2023-03-04 Atalanta - Udinese
+[SA] 2023-03-11 Napoli - Atalanta
+[SA] 2023-03-17 Atalanta - Empoli
 		<!-- APRILE -->
-2023-04-01 Cremonese - Atalanta
-2023-04-08 Atalanta - Bologna
-2023-04-17 Fiorentina - Atalanta
-2023-04-24 Atalanta - Roma
-2023-04-29 Torino - Atalanta
+[SA] 2023-04-01 Cremonese - Atalanta
+[SA] 2023-04-08 Atalanta - Bologna
+[SA] 2023-04-17 Fiorentina - Atalanta
+[SA] 2023-04-24 Atalanta - Roma
+[SA] 2023-04-29 Torino - Atalanta
 		<!-- MAGGIO -->
-2023-05-03 Atalanta - Spezia
-2023-05-07 Atalanta - Juventus
-2023-05-13 Salernitana - Atalanta
-2023-05-20 Atalanta - Verona
-2023-05-27 Inter - Atalanta
+[SA] 2023-05-03 Atalanta - Spezia
+[SA] 2023-05-07 Atalanta - Juventus
+[SA] 2023-05-13 Salernitana - Atalanta
+[SA] 2023-05-20 Atalanta - Verona
+[SA] 2023-05-27 Inter - Atalanta
 		<!-- GIUGNO -->
-2023-06-04 Atalanta - Monza
+[SA] 2023-06-04 Atalanta - Monza
 
 <!-- STAGIONE 23|24 -->
 		<!-- AGOSTO -->
-2023-08-20 Sassuolo - Atalanta
-2023-08-26 Frosinone - Atalanta
+[SA] 2023-08-20 Sassuolo - Atalanta
+[SA] 2023-08-26 Frosinone - Atalanta
 		<!-- SETTEMBRE -->
-2023-09-02 Atalanta - Monza
-2023-09-17 Fiorentina - Atalanta
-2023-09-21 Atalanta - Raków Czestochowa
-2023-09-24 Atalanta - Cagliari
-2023-09-27 Verona - Atalanta
+[SA] 2023-09-02 Atalanta - Monza
+[SA] 2023-09-17 Fiorentina - Atalanta
+[UE] 2023-09-21 Atalanta - Raków Czestochowa
+[SA] 2023-09-24 Atalanta - Cagliari
+[SA] 2023-09-27 Verona - Atalanta
 		<!-- OTTOBRE -->
-2023-10-01 Atalanta - Juventus
-2023-10-05 Sporting CP-Atalanta
-2023-10-08 Lazio - Atalanta
-2023-10-22 Atalanta - Genoa
-2023-10-26 SK Sturm Graz-Atalanta
-2023-10-30 Empoli - Atalanta
+[SA] 2023-10-01 Atalanta - Juventus
+[UE] 2023-10-05 Sporting CP-Atalanta
+[SA] 2023-10-08 Lazio - Atalanta
+[SA] 2023-10-22 Atalanta - Genoa
+[UE] 2023-10-26 SK Sturm Graz-Atalanta
+[SA] 2023-10-30 Empoli - Atalanta
 		<!-- NOVEMBRE -->
-2023-11-04 Atalanta - Inter
-2023-11-09 Atalanta-SK Sturm Graz
-2023-11-12 Udinese - Atalanta
-2023-11-25 Atalanta - Napoli
-2023-11-30 Atalanta-Sporting CP
+[SA] 2023-11-04 Atalanta - Inter
+[UE] 2023-11-09 Atalanta-SK Sturm Graz
+[SA] 2023-11-12 Udinese - Atalanta
+[SA] 2023-11-25 Atalanta - Napoli
+[UE] 2023-11-30 Atalanta-Sporting CP
 		<!-- DICEMBRE -->
-2023-12-04 Torino - Atalanta
-2023-12-09 Atalanta - Milan
-2023-12-14 Raków Czestochowa-Atalanta
-2023-12-18 Atalanta - Salernitana
-2023-12-23 Bologna - Atalanta
-2023-12-30 Atalanta - Lecce
+[SA] 2023-12-04 Torino - Atalanta
+[SA] 2023-12-09 Atalanta - Milan
+[UE] 2023-12-14 Raków Czestochowa-Atalanta
+[SA] 2023-12-18 Atalanta - Salernitana
+[SA] 2023-12-23 Bologna - Atalanta
+[SA] 2023-12-30 Atalanta - Lecce
 
 	<!-- 2024 -->
 		<!-- GENNAIO -->
-2024-01-07 Roma - Atalanta
-2024-01-14 Atalanta - Frosinone
-2024-01-21 Inter - Atalanta
-2024-01-28 Atalanta - Udinese
+[CI] 2024-01-03 Atalanta - Sassuolo
+[SA] 2024-01-07 Roma - Atalanta
+[SA] 2024-01-14 Atalanta - Frosinone
+[SA] 2024-01-21 Inter - Atalanta
+[SA] 2024-01-28 Atalanta - Udinese
 		<!-- FEBBRAIO -->
-2024-02-04 Atalanta - Lazio
-2024-02-11 Genoa - Atalanta
-2024-02-18 Atalanta - Sassuolo
-2024-02-25 Milan - Atalanta
+[SA] 2024-02-04 Atalanta - Lazio
+[SA] 2024-02-11 Genoa - Atalanta
+[SA] 2024-02-18 Atalanta - Sassuolo
+[SA] 2024-02-25 Milan - Atalanta
 		<!-- MARZO -->
-2024-03-03 Atalanta - Bologna
-2024-03-10 Juventus - Atalanta
-2024-03-17 Atalanta - Fiorentina
-2024-03-30 Napoli - Atalanta
+[SA] 2024-03-03 Atalanta - Bologna
+[SA] 2024-03-10 Juventus - Atalanta
+[SA] 2024-03-17 Atalanta - Fiorentina
+[SA] 2024-03-30 Napoli - Atalanta
 		<!-- APRILE -->
-2024-04-07 Cagliari - Atalanta
-2024-04-14 Atalanta - Verona
-2024-04-21 Monza - Atalanta
-2024-04-28 Atalanta - Empoli
+[SA] 2024-04-07 Cagliari - Atalanta
+[SA] 2024-04-14 Atalanta - Verona
+[SA] 2024-04-21 Monza - Atalanta
+[SA] 2024-04-28 Atalanta - Empoli
 		<!-- MAGGIO -->
-2024-05-05 Salernitana - Atalanta
-2024-05-12 Atalanta - Roma
-2024-05-19 Lecce - Atalanta
-2024-05-26 Atalanta - Torino
+[SA] 2024-05-05 Salernitana - Atalanta
+[SA] 2024-05-12 Atalanta - Roma
+[SA] 2024-05-19 Lecce - Atalanta
+[SA] 2024-05-26 Atalanta - Torino
